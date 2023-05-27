@@ -1,6 +1,6 @@
 # Zeig mol! Chrome Extension
 
-The Zeig mol! extension for Google Chrome allows users to prepend "https://12ft.io/" to the URL of the current tab with a single click. For example, if the user is on "https://google.com/chatgpt", the URL that will be called is "https://12ft.io/google.com/chatgpt".
+The Zeig mol! extension for Google Chrome allows users to prepend "https://12ft.io/" to the URL of the current tab with a single click. 
 
 ## Features
 
